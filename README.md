@@ -1,10 +1,10 @@
 # Hi, I'm Nor El Amene 
 
- Biotechnology Engineer & Master's Graduate in Microbial Biotechnology  
- Interested in Microbiology, Biotechnology & Bioinformatics  
- Full-Stack Development & Python  
- Research-oriented and interested in computational approaches to biotechnology  
- Preparing for PhD opportunities in Biotechnology / Microbiology / Bioinformatics  
+- Biotechnology Engineer & Master's Graduate in Microbial Biotechnology  
+- Interested in Microbiology, Biotechnology & Bioinformatics  
+- Full-Stack Development & Python  
+- Research-oriented and interested in computational approaches to biotechnology  
+- Preparing for PhD opportunities in Biotechnology / Microbiology / Bioinformatics  
 
 ## About Me
 
